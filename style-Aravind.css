@@ -1,0 +1,18 @@
+.line1{
+   
+    
+    background-position:top right;
+    background-repeat: no-repeat;
+    background-color: darkslategray;
+
+  }
+
+  .line2{
+      color: blue;
+      text-align: center;
+  }
+
+  .img{
+    height: 100vh;
+  }
+  
